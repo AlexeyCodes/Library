@@ -14,7 +14,7 @@ slices_sort: Package for sorting slices.
 interfaces: Package containing interfaces and type constraints.
 
 Installation
-
+ 
 Clone the repository:
 git clone github.com/AlexeyCodes/Library
 
