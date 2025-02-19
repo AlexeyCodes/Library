@@ -16,7 +16,7 @@ interfaces: Package containing interfaces and type constraints.
 Installation
 
 Clone the repository:
-git clone <repository URL>
+git clone github.com/AlexeyCodes/Library
 
 Navigate to the project directory
 cd Library
